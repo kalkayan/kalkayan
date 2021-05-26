@@ -1,6 +1,6 @@
 ![banner](/static/banner.jpg)
 
-Hi, I'm Manish. I'm creating software, breaking software and making software for breaking another software. I have interned at [@adobe](https://github.com/adobe), [@cncf](https://github.com/cncf) (under kubernetes), and [@grorapid](https://www.grorapid.com). I'm currently maintaining [The Elekto project](https://elekto.io) , [Thieves of Productivity](https://toproductivity.kalkayan.io/) and sharing my experiences at [kalkayan.io](https://www.kalkayan.io). Besides this, I’m an active contributor to many live opensource projects - Read more [about me](https://www.kalkayan.io/about/).
+Hi, I'm Manish. I'm creating software, breaking software and making software for breaking another software. I have interned at [@adobe](https://github.com/adobe), [@cncf](https://github.com/cncf) (under kubernetes), and have handled the entire backend system of [@grorapid](https://www.grorapid.com). I'm currently maintaining [The Elekto project](https://elekto.io), and sharing my experiences at [kalkayan.io](https://engineering.kalkayan.io).
 
 > “To iterate is human, to recurse divine.” - L. Peter Deutsch
 
