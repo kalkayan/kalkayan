@@ -1,4 +1,4 @@
-![banner](/static/banner.jpg)
+![banner](/static/banner.png)
 
 Hi, I'm Manish. I'm creating software, breaking software and making software for breaking another software. I have interned at [@adobe](https://github.com/adobe), [@cncf](https://github.com/cncf) (under kubernetes), and have handled the entire backend system of [@grorapid](https://www.grorapid.com). I'm currently maintaining [The Elekto project](https://elekto.io), and sharing my experiences at [kalkayan.io](https://engineering.kalkayan.io).
 
