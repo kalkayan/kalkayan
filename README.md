@@ -5,10 +5,11 @@
 I am currently working at [adobe](https://github.com/adobe) on software that syncs your design files (XD, psd or other cloud-native files) to the shared cloud. Like other things, this page is also a work in progress.
 
 
+<br />
+
+Ask a question or just simply say hello [@rec.manish.sahani@gmail.com](mailto:rec.manish.sahani@gmail.com)
 
 <!-- I'm creating software, breaking software and making software for breaking another software. I have interned at [@adobe](https://github.com/adobe), [@cncf](https://github.com/cncf) (under kubernetes), and have handled the entire backend system of [@grorapid](https://www.grorapid.com). I'm currently maintaining [The Elekto project](https://elekto.io), and sharing my experiences at [kalkayan.io](https://engineering.kalkayan.io). -->
-
-<br />
 
 <!-- > Loss makes us re-evaluate what we hold ~ Underwood -->
 
