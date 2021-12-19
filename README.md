@@ -10,7 +10,7 @@ I am currently working at [adobe](https://github.com/adobe) on software that syn
 
 <br />
 
-> Loss makes us re-evaluate what we hold ~ Underwood
+<!-- > Loss makes us re-evaluate what we hold ~ Underwood -->
 
 --- 
 
