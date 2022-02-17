@@ -1,17 +1,11 @@
-<!--  ![banner](/banner.png) -->
+### Hello there[*](https://youtu.be/rEq1Z0bjdwc), I'm [Manish](https://www.linkedin.com/in/manishsahani/). 
 
-### Hi, I'm [Manish](https://www.linkedin.com/in/manishsahani/). 
-
-I am currently working at [adobe](https://github.com/adobe) on software that syncs your design files (XD, psd or other cloud-native files) to the shared cloud. Like other things, this page is also a work in progress.
+I am a software development engineer at @[adobe](https://github.com/adobe). I work on software and libraries that syncs the local design files (XD, psd, etc) to the shared adobe cloud. Read about few things I write here and there on - [engineeringwith.kalkayan.io](https://engineeringwith.kalkayan.io). 
 
 
 <br />
 
-Ask a question or just simply say hello [@rec.manish.sahani@gmail.com](mailto:rec.manish.sahani@gmail.com)
-
-<!-- I'm creating software, breaking software and making software for breaking another software. I have interned at [@adobe](https://github.com/adobe), [@cncf](https://github.com/cncf) (under kubernetes), and have handled the entire backend system of [@grorapid](https://www.grorapid.com). I'm currently maintaining [The Elekto project](https://elekto.io), and sharing my experiences at [kalkayan.io](https://engineering.kalkayan.io). -->
-
-<!-- > Loss makes us re-evaluate what we hold ~ Underwood -->
+Ask a question or just simply say hello [@rec.manish.sahani@gmail.com](mailto:rec.manish.sahani@gmail.com). And, yes! that's a star wars reference above.
 
 --- 
 
@@ -29,5 +23,3 @@ Ask a question or just simply say hello [@rec.manish.sahani@gmail.com](mailto:re
 </a>
 
 <br />
-
-<!-- <img width="164" alt="kalkayan-1" src="https://user-images.githubusercontent.com/73003119/146201981-95938ee2-40ae-4d74-be29-0f8a22859861.png"> -->
