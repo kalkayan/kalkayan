@@ -1,6 +1,6 @@
 ### Hello there[*](https://youtu.be/rEq1Z0bjdwc), I'm [Manish](https://www.linkedin.com/in/manishsahani/). 
 
-I am a software development engineer at @[adobe](https://github.com/adobe). I work on software and libraries that syncs the local design files (XD, psd, etc) to the shared adobe cloud. Read about few things I write here and there on - [engineeringwith.kalkayan.io](https://engineeringwith.kalkayan.io). 
+I am a software development engineer at @[aws](https://aws.amazon.com/). Here, I work on backend services for monitoring console. Before this I was at @[adobe](https://www.adobe.com/), working on software and libraries that syncs the local design files (XD, psd, etc) to the shared adobe cloud. Read about few things I write here and there on - [engineeringwith.kalkayan.io](https://engineeringwith.kalkayan.io). 
 
 
 <br />
